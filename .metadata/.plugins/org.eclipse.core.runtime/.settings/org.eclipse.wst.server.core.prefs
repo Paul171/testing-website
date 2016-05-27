@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="com.ibm.worklight" id-set\="true" location\="/Users/lopuilam/eclipse/plugins/com.worklight.worklight-artifacts_7.1.0.00-20160229-1240/liberty/wlp" name\="MobileFirst Development Server" runtime-type-id\="com.ibm.ws.st.runtime.v85.was" timestamp\="0">\n    <list key\="user-dirs" value0\="/Users/lopuilam/Downloads/10.project-package/MobileFirstServerConfig"/>\n  </runtime>\n</runtimes>\n
